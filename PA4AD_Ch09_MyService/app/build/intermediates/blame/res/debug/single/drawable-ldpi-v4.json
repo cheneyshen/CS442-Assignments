@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\PA4AD_Ch09_MyService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\PA4AD_Ch09_MyService\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch09_MyService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch09_MyService\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

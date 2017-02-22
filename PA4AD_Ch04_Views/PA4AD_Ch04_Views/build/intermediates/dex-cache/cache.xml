@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PA4AD_Ch04_Views\PA4AD_Ch04_Views\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d2eb1bed88009dbc8415b54d2dff592e031f1b10">
+        <dex dex="D:\PA4AD_Ch04_Views\PA4AD_Ch04_Views\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c2e154131bf7ad49512bb03985d32dc42d22552\classes.dex" />
+    </item>
+    <item
+        jar="D:\PA4AD_Ch04_Views\PA4AD_Ch04_Views\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="32801c8b61d76707f382c6f2203b7f913002fd37">
+        <dex dex="D:\PA4AD_Ch04_Views\PA4AD_Ch04_Views\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_55bcb3e00b56b565622d212fcc9a78333740d8ca\classes.dex" />
+    </item>
+
+</items>

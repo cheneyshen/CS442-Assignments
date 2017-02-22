@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main1.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_notification_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\my_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\status_window.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\status_window.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_ticker_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\my_ticker_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_status_window.xml",
+        "source": "D:\\AndroidStudioProjects\\PA4AD_Ch10_Notifications\\app\\src\\main\\res\\layout\\my_status_window.xml"
+    }
+]
